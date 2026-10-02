@@ -1,10 +1,9 @@
 ![The Contact Project](github-banner-The_Contact_Project_Earthrise_Signal.png)
-<h1 align="center">THE CONTACT PROJECT</h1>
 
 <p align="center">
-  <strong>Clear blue skies, clear signals.</strong><br><br>
-  Open research · Experimental tools · Reproducible investigations<br><br>
-  <a href="https://contactproject.org"><strong>ContactProject.org</strong></a>
+  Open research · Experimental tools · Reproducible investigations
+  <br><br>
+  <a href="https://contactproject.org/"><strong>ContactProject.org</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/contactproject/GCP2-Experiment-Console"><strong>GCP2 Experiment Console</strong></a>
   &nbsp;·&nbsp;
