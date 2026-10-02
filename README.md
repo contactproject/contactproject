@@ -1,3 +1,4 @@
+![The Contact Project](github-banner-The_Contact_Project_Earthrise_Signal.png)
 <h1 align="center">THE CONTACT PROJECT</h1>
 
 <p align="center">
